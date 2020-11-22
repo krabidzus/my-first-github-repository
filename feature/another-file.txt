@@ -1,3 +1,5 @@
-another file
+this line was replaced
 
 This file was modified locally
+
+this line was added feature 2 branch
